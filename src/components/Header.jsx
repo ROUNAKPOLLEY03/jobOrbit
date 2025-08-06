@@ -166,8 +166,8 @@ const Header = () => {
             </button>
 
             {/* Sign In Component Container */}
-            <div className="bg-white/95 backdrop-blur-md rounded-2xl shadow-2xl border border-white/50 overflow-hidden">
-              <div className="p-2">
+            <div className="">
+              <div className="">
                 <SignIn
                   signUpForceRedirectUrl="/onboarding"
                   fallbackRedirectUrl="/onboarding"
