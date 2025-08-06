@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is jobOrbit?",
+    "answer": "jobOrbit is a dynamic job portal that connects talented job seekers with top employers. It offers an intuitive platform for posting, searching, and applying for jobs, making the hiring process simple and effective for everyone."
+  },
+  {
+    "question": "How can I post a job as an employer?",
+    "answer": "Log in to your employer account and navigate to the 'Post a Job' section. Fill in the job details such as title, description, requirements, and location — then submit to publish your listing."
+  },
+  {
+    "question": "How do I search for jobs on jobOrbit?",
+    "answer": "Use the search bar on the homepage or the jobs page to find listings by title, keyword, location, or category. You can also apply filters to narrow down results to your preferences."
+  },
+  {
+    "question": "What’s the process to apply for a job?",
+    "answer": "Click on any job listing to view the details. If it matches your interest, hit 'Apply Now', upload your resume, and complete any additional fields required by the employer."
+  },
+  {
+    "question": "Is there a way to bookmark jobs I like?",
+    "answer": "Absolutely! Click the 'Save Job' button on any listing to bookmark it. You can view all your saved jobs later in your profile under the 'Saved Jobs' tab."
+  },
+  {
+    "question": "Can I track the jobs I’ve applied to?",
+    "answer": "Yes, your profile includes an 'Applications' dashboard where you can monitor the status of each job you've applied for — from submission to employer response."
+  }
+]
