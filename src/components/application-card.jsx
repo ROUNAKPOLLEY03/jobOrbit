@@ -1,4 +1,3 @@
-//
 import { Boxes, BriefcaseBusiness, Download, School } from "lucide-react";
 import {
   Card,

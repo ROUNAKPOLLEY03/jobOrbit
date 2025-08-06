@@ -1,4 +1,3 @@
-//
 import { useUser } from "@clerk/clerk-react";
 import ApplicationCard from "./application-card";
 import { useEffect } from "react";
