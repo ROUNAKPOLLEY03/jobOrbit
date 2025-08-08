@@ -18,6 +18,7 @@ const Header = () => {
   const [search, setSearch] = useSearchParams();
   const { user } = useUser();
 
+  // https://job-orbit-beta.vercel.app/?sign-in=true
   useEffect(() => {
     if (search.get("sign-in")) {
       setshowSignIn(true);
@@ -45,8 +46,8 @@ const Header = () => {
               />
             </Link>
 
-            {/* Navigation Actions */}
             <div className="flex items-center">
+              {/* Condition: When user is not signed in */}
               <SignedOut>
                 <Button
                   onClick={() => setshowSignIn(true)}

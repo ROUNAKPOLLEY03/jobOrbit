@@ -110,7 +110,7 @@ export const LandingPage = () => {
             </p>
           </div>
 
-          {/* CTA Buttons - Only the original two */}
+          {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-16">
             <Link to={"/jobs"} className="group">
               <Button className="bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-bold px-10 py-4 rounded-full text-lg shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 hover:scale-105 border-0">
